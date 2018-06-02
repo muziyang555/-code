@@ -1,0 +1,45 @@
+{
+  "APP_HEAD": {
+    "CURRENT_NUM": "0",
+    "PAGE_END": "0",
+    "PAGE_START": "0",
+    "PGUP_OR_PGDN": "0",
+    "TOTAL_NUM": "-1"
+  },
+  "BODY": {
+    "ACCT_CCY": "CNY",
+    "ACCT_SEQ_NO": "0",
+    "BASE_ACCT_NO": "1005890001500014016",
+    "PROD_TYPE": "10058"
+  },
+  "LOCAL_HEAD": {},
+  "SYS_HEAD": {
+    "APPR_FLAG": "",
+    "APPR_USER_ID": "",
+    "AUTH_FLAG": "N",
+    "AUTH_PASSWORD": "",
+    "AUTH_USER_ID": "",
+    "BRANCH_ID": "90001",
+    "DEST_BRANCH_NO": "90001",
+    "MESSAGE_CODE": "0159",
+    "MESSAGE_TYPE": "1400",
+    "MODULE_ID": "CL",
+    "PROGRAM_ID": "3508",
+    "REVERSAL_TRAN_TYPE": "",
+    "SCENE_ID": "01",
+    "SEQ_NO": "54F6C5135C5A6402154427376",
+    "SERVER_ID": "127.0.0.1",
+    "SERVICE_CODE": "MbsdCore",
+    "SOURCE_BRANCH_NO": "90001",
+    "SOURCE_TYPE": "MT",
+    "THREAD_NO": "TELLER.54F6C5135C5A.RZPK",
+    "TRAN_CODE": "",
+    "TRAN_DATE": "20180402",
+    "TRAN_MODE": "ONLINE",
+    "TRAN_TIMESTAMP": "154427376",
+    "TRAN_TYPE": "",
+    "USER_ID": "xupingping",
+    "USER_LANG": "CHINESE",
+    "WS_ID": "05"
+  }
+}
