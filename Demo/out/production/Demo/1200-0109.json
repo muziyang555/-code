@@ -1,0 +1,109 @@
+{
+  "SYS_HEAD": {
+    "SERVICE_CODE": "MbsdCore",
+    "MESSAGE_TYPE": "1200",
+    "MESSAGE_CODE": "0116",
+    "SERVICE_ID": "120020015",
+    "SCENE_ID": "03",
+    "TRAN_MODE": "ONLINE",
+    "SOURCE_TYPE": "MBNK",
+    "BRANCH_ID": "90001",
+    "USER_ID": "MBNK",
+    "TRAN_DATE": "20180330",
+    "TRAN_TIMESTAMP": "134052",
+    "USER_LANG": "CHINESE",
+    "SEQ_NO": "IBS20180330000003506154",
+    "SYSTEM_ID": "IBS",
+    "COMPANY": "",
+    "SOURCE_BRANCH_NO": "",
+    "DEST_BRANCH_NO": "",
+    "FILE_PATH": "",
+    "MAC_VALUE": "",
+    "WS_ID": "",
+    "PROGRAM_ID": "",
+    "AUTH_USER_ID": "",
+    "AUTH_FLAG": "",
+    "APPR_USER_ID": "",
+    "APPR_FLAG": "",
+    "VERSION": "",
+    "THREAD_NO": "",
+    "EXTEND_ARRAY": [
+      {}
+    ],
+    "EXTEND_FIELD": "",
+    "MAC_ORG_ID": "",
+    "CNSM_SYS_SVRID": "",
+    "SRC_SYS_SVRID": ""
+  },
+  "APP_HEAD": {
+    "PGUP_OR_PGDN": "1",
+    "TOTAL_NUM": "1",
+    "CURRENT_NUM": "0",
+    "TOTAL_FLAG": "E"
+  },
+  "BODY": {
+    "BASE_ACCT_NO": "1007090001400001549",
+    "MAIN_PROD_TYPE": "10070",
+    "MAIN_ACCT_CCY": "CNY",
+    "MAIN_ACCT_SEQ_NO": "0",
+    "LOST_NO": "",
+    "CLOSE_TYPE": "0",
+    "CLOSE_REASON": "",
+    "WITHDRAWAL_TYPE": "",
+    "PASSWORD": "",
+    "COMMISSION_CLIENT_NO": "",
+    "COMMISSION_CLIENT_NAME": "",
+    "COMMISSION_DOC_TYPE": "",
+    "COMMISSION_DOC_ID": "",
+    "SUB_PROD_ARRAY": [
+      {
+        "PROD_TYPE": "10070",
+        "CCY": "CNY",
+        "ACCT_SEQ_NO": "0",
+        "CLOSE_FLAG": "Y"
+      }
+    ],
+    "TRAN_ARRAY": [
+      {
+        "TRAN_TYPE": "",
+        "OTH_BASE_ACCT_NO": "",
+        "OTH_PROD_TYPE": "",
+        "OTH_ACCT_CCY": "",
+        "OTH_ACCT_SEQ_NO": "",
+        "TRAN_AMT": "",
+        "CASH_ITEM": "",
+        "NARRATIVE": "",
+        "EXCHANGE_TRAN_CODE": "",
+        "EXCHANGE_TRAN_CODET": ""
+      }
+    ],
+    "SERV_DETAIL": [
+      {
+        "FEE_TYPE": "0",
+        "FEE_CCY": "CNY",
+        "FEE_AMT": "0",
+        "ORIG_FEE_AMT": "",
+        "DISC_FEE_AMT": "",
+        "DISC_TYPE": "",
+        "DISC_RATE": "",
+        "BO_CLASS": "",
+        "CHARGE_MODE": "N",
+        "CHARGE_TO_BASE_ACCT_NO": "",
+        "CHARGE_TO_CCY": "",
+        "CHARGE_TO_PROD_TYPE": "",
+        "CHARGE_TO_ACCT_SEQ_NO": "",
+        "WITHDRAWAL_TYPE": "",
+        "PASSWORD": "",
+        "TAX_TYPE": "",
+        "TAX_RATE": "",
+        "TAX_AMT": "",
+        "DOC_TYPE": "",
+        "PREFIX": "",
+        "VOUCHER_START_NO": "",
+        "VOUCHER_END_NO": "",
+        "VOUCHER_NUM": "",
+        "UNIT_PRICE": ""
+      }
+    ]
+  }
+}
